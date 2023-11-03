@@ -11,4 +11,5 @@ source venv/bin/activate
 
 Run `./get_open_interest.py` for the first task.
 
-Run `./ext_stats.py ` for the second task. 
+Run `./ext_stats.py ` for the second task. You can use
+`-r` to explore subdirectories recursively.
